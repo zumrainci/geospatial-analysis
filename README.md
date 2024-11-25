@@ -35,5 +35,7 @@ Step 4: Spatial Intersection: I intersected the tram stop buffers with district 
 Step 5: Visualization: I generated a choropleth map showing district-level tram stop accessibility.
 
 ## Notebook Link
-View the interactive notebook on NBViewer:  
+
+GitHub does not support rendering interactive maps directly in notebooks. If you see the message `"Make this Notebook Trusted to load map: File -> Trust Notebook"` while viewing the notebook on GitHub,   please use the following link to view the fully interactive notebook with maps:
+
 [Tram Stop Accessibility Analysis in Amsterdam](https://nbviewer.org/github/zumrainci/geospatial-analysis/blob/main/tram-stop-analysis-amsterdam.ipynb)
