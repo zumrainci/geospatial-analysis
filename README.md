@@ -33,3 +33,7 @@ Step 3: Dissolving Overlapping Buffers: I merged overlapping buffers to prevent 
 Step 4: Spatial Intersection: I intersected the tram stop buffers with district boundaries to calculate the proportion of each district covered.
 
 Step 5: Visualization: I generated a choropleth map showing district-level tram stop accessibility.
+
+## Notebook Link
+View the interactive notebook on NBViewer:  
+[Tram Stop Accessibility Analysis in Amsterdam](https://nbviewer.org/github/zumrainci/geospatial-analysis/blob/main/tram-stop-analysis-amsterdam.ipynb)
