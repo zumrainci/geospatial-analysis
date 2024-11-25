@@ -16,7 +16,9 @@ Description: Polygon data representing the administrative districts (Wijken) of 
 ## Tools and Libraries
 
 Programming Language: Python
+
 Key Libraries:
+
 GeoPandas: For spatial data manipulation and overlay operations.
 Matplotlib: For creating static maps.
 Folium: For interactive visualizations.
