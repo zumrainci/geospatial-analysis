@@ -6,7 +6,8 @@ The aim of this project is to analyze the accessibility of tram stops in Amsterd
 ## Data Used
 
 - Tram Stop Locations:
-Source: [Amsterdam Open Geodata Portal](https://maps.amsterdam.nl/open_geodata/geojson_lnglat.php?KAARTLAAG=TRAMMETRO_PUNTEN_2024&THEMA=trammetro)
+Source: [Amsterdam Open Geodata Portal](https://maps.amsterdam.nl/open_geodata/)
+
 Description: Point data representing the locations of tram stops in Amsterdam.
 
 - District Boundaries ("Wijken"):
